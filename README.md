@@ -1,2 +1,2 @@
-# To recoed NTU Data analysis course homework 
+# NTU Data analysis course homework 
 To practice how to use github
